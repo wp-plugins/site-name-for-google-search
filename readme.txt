@@ -23,7 +23,7 @@ On the main Settings menu.
 
 == Screenshots ==
 
-google.jpg
+1. Shows where the name will show in the results list.
 
 == Changelog ==
 
